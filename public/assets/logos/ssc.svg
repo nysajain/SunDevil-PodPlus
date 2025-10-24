@@ -1,0 +1,12 @@
+<svg width="160" height="48" viewBox="0 0 160 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Student Success Center Logo Placeholder</title>
+  <desc id="desc">Stylized SSC letters with maroon to gold gradient background.</desc>
+  <defs>
+    <linearGradient id="sscGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8C1D40"/>
+      <stop offset="100%" stop-color="#FFC627"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="48" rx="14" fill="url(#sscGradient)" opacity="0.9"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-family="'Helvetica', 'Arial', sans-serif" font-size="26" font-weight="700">SSC</text>
+</svg>

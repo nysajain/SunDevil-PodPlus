@@ -1,0 +1,28 @@
+SunDevil Pods+ Demo Script
+-------------------------
+
+Follow these steps to showcase the prototype:
+
+1. **Run matching script:**
+   - Execute `npm run match` to generate `pods.json` based on the sample signups.
+   - Mention that this uses greedy clustering to assign pods of 5–8 respecting zones, timeslots, interests and tags.
+
+2. **Open the app:**
+   - Start the dev server (if built) with `npm run dev`.
+   - Navigate to the SignUp page and fill in interests, times and tags. Emphasize the 90‑second simplicity.
+
+3. **Show the Pod card:**
+   - After signing up, display the Match Result page with the pod details. Note how tags such as "sensory" modify available spaces.
+
+4. **Start a Connection Quest:**
+   - On the Pod Dashboard, click “Start Quest”. A toast shows the weekly quest card.
+   - Press “Check‑in” to simulate attendance and watch confetti and badge notifications.
+
+5. **Highlight inclusivity features:**
+   - Toggle the ADA/sensory filter in the Space Picker. Show the Belonging Pulse survey and how the delta is calculated.
+
+6. **Walk through the Captain console:**
+   - Explain the micro‑skills cards and how captains can issue quests, take attendance and measure vibe.
+
+7. **Wrap up:**
+   - Summarize pilot metrics and how easy it is to scale this using existing ASU resources.

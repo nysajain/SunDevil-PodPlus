@@ -1,0 +1,27 @@
+SunDevil Pods+ Pitch Script
+---------------------------
+
+(Use this script to present your solution at the hackathon.)
+
+1. **Opening (15s)**
+   - "Hi everyone, we’re tackling the loneliness epidemic at ASU. 64% of students feel lonely—especially first-years, commuters and international students. Big events create exposure but not lasting bonds."
+
+2. **Insight (10s)**
+   - "Research shows belonging grows in small, recurring groups. Our solution creates micro‑communities of 5–8 students matched by campus zone, timeslot and interests, with a barrier-aware twist."
+
+3. **Solution Overview (25s)**
+   - "Meet SunDevil Pods+: every student signs up in 90 seconds, picks interests and times, and gets placed in a pod. A trained peer captain guides them through a 4‑week ‘Connection Quests’ curriculum that teaches invite, trust repair, and coalition skills."
+
+4. **Demo (40s)**
+   - "Let’s show you: sign up, see your pod, start a quest, and check in—confetti and badge! Points accumulate in a wallet and pods earn rewards cooperatively. The vibe meter stays private to the pod."
+
+5. **Equity & Inclusion (15s)**
+   - "Pods respect commuter hours, sensory needs, mobility and language preferences. Each pod picks ADA‑friendly spaces. Inclusivity is embedded—from invites to trust repair scripts."
+
+6. **Impact & Feasibility (15s)**
+   - "In our pilot, 100 students in 16 pods over 4 weeks will measure belonging delta, stickiness and club conversion. The cost is minimal—existing spaces, a small prize pool, and mentor training."
+
+7. **Future (10s)**
+   - "Phase 2 integrates with Sun Devil Rewards and expands to other campuses. SunDevil Pods+ turns belonging into a weekly game—fun, inclusive and ready to run tomorrow."
+
+Thank you!

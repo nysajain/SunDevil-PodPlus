@@ -1,0 +1,132 @@
+[
+  {
+    "id": "pod-001",
+    "zone": "Tempe",
+    "timeslot": "Wed 12:30",
+    "interests": [
+      "soccer",
+      "hiking",
+      "music",
+      "volunteering",
+      "anime",
+      "study sprint",
+      "coffee",
+      "board games"
+    ],
+    "tags": [
+      "commuter",
+      "first_gen",
+      "international",
+      "language_ally",
+      "sensory"
+    ],
+    "memberIds": [
+      "u-002",
+      "u-006",
+      "u-001",
+      "u-003",
+      "u-004"
+    ],
+    "points": 0,
+    "level": 1,
+    "vibe": 0
+  },
+  {
+    "id": "pod-002",
+    "zone": "West",
+    "timeslot": "Tue 15:00",
+    "interests": [
+      "gaming",
+      "hiking",
+      "art",
+      "dancing",
+      "soccer",
+      "volunteering",
+      "music",
+      "photography",
+      "reading"
+    ],
+    "tags": [
+      "commuter",
+      "international",
+      "language_ally",
+      "first_gen",
+      "sensory"
+    ],
+    "memberIds": [
+      "u-008",
+      "u-007",
+      "u-010",
+      "u-012",
+      "u-009"
+    ],
+    "points": 0,
+    "level": 1,
+    "vibe": 0
+  },
+  {
+    "id": "pod-003",
+    "zone": "Poly",
+    "timeslot": "Thu 17:00",
+    "interests": [
+      "photography",
+      "coffee",
+      "soccer",
+      "volunteering",
+      "coding",
+      "reading",
+      "anime",
+      "film club",
+      "art"
+    ],
+    "tags": [
+      "commuter",
+      "first_gen",
+      "international",
+      "language_ally"
+    ],
+    "memberIds": [
+      "u-014",
+      "u-018",
+      "u-013",
+      "u-015",
+      "u-016"
+    ],
+    "points": 0,
+    "level": 1,
+    "vibe": 0
+  },
+  {
+    "id": "pod-004",
+    "zone": "DTPHX",
+    "timeslot": "Wed 16:00",
+    "interests": [
+      "dancing",
+      "music",
+      "basketball",
+      "volunteering",
+      "coffee",
+      "board games",
+      "film club",
+      "study sprint",
+      "coding"
+    ],
+    "tags": [
+      "commuter",
+      "first_gen",
+      "international",
+      "sensory",
+      "language_ally"
+    ],
+    "memberIds": [
+      "u-019",
+      "u-024",
+      "u-020",
+      "u-021",
+      "u-022"
+    ],
+    "points": 0,
+    "level": 1,
+    "vibe": 0
+  }
+]

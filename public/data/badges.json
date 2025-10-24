@@ -1,0 +1,16 @@
+[
+  {"id": "first_hello", "name": "First Hello", "icon": "👋", "criteria": "Completed the first hello quest"},
+  {"id": "ritual_maker", "name": "Ritual Maker", "icon": "🕰️", "criteria": "Established a pod ritual"},
+  {"id": "friendly_inviter", "name": "Friendly Inviter", "icon": "😊", "criteria": "Invited peers to connect"},
+  {"id": "commuter_hero", "name": "Commuter Hero", "icon": "🚗", "criteria": "Helped commuters meet at midday"},
+  {"id": "repair_ready", "name": "Repair Ready", "icon": "🔧", "criteria": "Practiced conflict repair"},
+  {"id": "language_ally", "name": "Language Ally", "icon": "🌍", "criteria": "Supported language accessibility"},
+  {"id": "club_connector", "name": "Club Connector", "icon": "🎉", "criteria": "Bridged to campus clubs"},
+  {"id": "sensory_friendly", "name": "Sensory Friendly", "icon": "🧘", "criteria": "Hosted a low-stimulus social"},
+  {"id": "service_squad", "name": "Service Squad", "icon": "🤝", "criteria": "Completed a community micro-service"},
+  {"id": "study_sprinter", "name": "Study Sprinter", "icon": "📚", "criteria": "Led a study sprint marathon"},
+  {"id": "mentor_match", "name": "Mentor Match", "icon": "☕", "criteria": "Hosted mentorship coffee chats"},
+  {"id": "wellness_walker", "name": "Wellness Walker", "icon": "🚶", "criteria": "Facilitated a wellness walk"},
+  {"id": "culture_connector", "name": "Culture Connector", "icon": "🌎", "criteria": "Shared cultures at a swap night"},
+  {"id": "finals_buddy", "name": "Finals Buddy", "icon": "🎓", "criteria": "Supported peers during finals prep"}
+]

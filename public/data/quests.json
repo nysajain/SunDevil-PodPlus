@@ -1,0 +1,114 @@
+[
+  {
+    "id": "quest1",
+    "week": 1,
+    "title": "First Hello",
+    "description": "Each member shares their name, year, and one welcome cue to open the semester.",
+    "badges": ["first_hello"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest2",
+    "week": 2,
+    "title": "Choose Our Ritual",
+    "description": "As a pod, decide on a 10-minute weekly ritual (tea circle, study sprint, etc.).",
+    "badges": ["ritual_maker"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest3",
+    "week": 3,
+    "title": "Two-Step Invite",
+    "description": "Each member invites one peer outside the pod to a low-stakes hangout.",
+    "badges": ["friendly_inviter"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest4",
+    "week": 4,
+    "title": "Midday Meetup",
+    "description": "For commuter pods: meet between 11:30 and 1:30 near transit or parking.",
+    "badges": ["commuter_hero"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest5",
+    "week": 5,
+    "title": "Oops/Ouch Practice",
+    "description": "Run a 2-minute reset using the Oops/Ouch script to practice conflict repair.",
+    "badges": ["repair_ready"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest6",
+    "week": 6,
+    "title": "Language Ally",
+    "description": "Use a visual agenda and slower pacing once; try a translation app if needed.",
+    "badges": ["language_ally"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest7",
+    "week": 7,
+    "title": "Club Bridge",
+    "description": "Attend one organization meeting or campus event together as a pod.",
+    "badges": ["club_connector"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest8",
+    "week": 8,
+    "title": "Low-Stimulus Social",
+    "description": "Host a quiet meetup for half the session in a sensory-friendly space.",
+    "badges": ["sensory_friendly"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest9",
+    "week": 9,
+    "title": "Community Service Sprint",
+    "description": "Plan a one-hour micro-service project that supports your zone community.",
+    "badges": ["service_squad"],
+    "points": { "base": 40, "coop4": 15, "coop6": 25 }
+  },
+  {
+    "id": "quest10",
+    "week": 10,
+    "title": "Study Sprint Marathon",
+    "description": "Run a 90-minute focus sprint with pomodoro check-ins and share study hacks.",
+    "badges": ["study_sprinter"],
+    "points": { "base": 35, "coop4": 15, "coop6": 25 }
+  },
+  {
+    "id": "quest11",
+    "week": 11,
+    "title": "Mentorship Coffee Chain",
+    "description": "Pair up with another pod for coffee chats and swap mentorship questions.",
+    "badges": ["mentor_match"],
+    "points": { "base": 35, "coop4": 15, "coop6": 25 }
+  },
+  {
+    "id": "quest12",
+    "week": 12,
+    "title": "Wellness Walk",
+    "description": "Host a 30-minute movement break and share wellbeing check-ins en route.",
+    "badges": ["wellness_walker"],
+    "points": { "base": 30, "coop4": 10, "coop6": 20 }
+  },
+  {
+    "id": "quest13",
+    "week": 13,
+    "title": "Cultural Swap Night",
+    "description": "Trade snacks, music, or traditions that reflect your cultures and identities.",
+    "badges": ["culture_connector"],
+    "points": { "base": 35, "coop4": 15, "coop6": 25 }
+  },
+  {
+    "id": "quest14",
+    "week": 14,
+    "title": "Finals Buddy System",
+    "description": "Partner for finals prep, set accountability goals, and share resources.",
+    "badges": ["finals_buddy"],
+    "points": { "base": 40, "coop4": 15, "coop6": 25 }
+  }
+]

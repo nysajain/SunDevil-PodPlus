@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sticker-pack",
+    "name": "Sticker Pack",
+    "description": "ASU-themed digital sticker pack to decorate your devices.",
+    "cost": 50
+  },
+  {
+    "id": "digital-frame",
+    "name": "Digital Frame",
+    "description": "Customisable digital frame for your profile picture.",
+    "cost": 50
+  },
+  {
+    "id": "raffle-ticket",
+    "name": "Raffle Ticket",
+    "description": "Enter to win exclusive SunDevil merchandise.",
+    "cost": 100
+  },
+  {
+    "id": "coffee-card",
+    "name": "$5 Coffee Card",
+    "description": "Enjoy a coffee at any campus cafe.",
+    "cost": 200
+  }
+]

@@ -1,0 +1,16 @@
+<svg width="180" height="48" viewBox="0 0 180 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sun Devil Rewards Logo Placeholder</title>
+  <desc id="desc">Sunburst icon with Sun Devil Rewards text.</desc>
+  <defs>
+    <linearGradient id="sdrGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFC627"/>
+      <stop offset="100%" stop-color="#8C1D40"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="48" rx="14" fill="#FFF3D6" opacity="0.95"/>
+  <g transform="translate(20,12)">
+    <circle cx="12" cy="12" r="12" fill="url(#sdrGradient)"/>
+    <polygon points="12,2 14.8,11 24,11 16.5,16.2 19.2,25 12,19.5 4.8,25 7.5,16.2 0,11 9.2,11" fill="#FFFFFF"/>
+  </g>
+  <text x="80" y="30" fill="#8C1D40" font-family="'Helvetica', 'Arial', sans-serif" font-size="16" font-weight="700">Sun Devil Rewards</text>
+</svg>

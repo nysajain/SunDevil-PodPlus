@@ -1,0 +1,83 @@
+[
+  {
+    "id": "mu-sparkys-den",
+    "name": "MU Sparky's Den lounge",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": false,
+    "capacity": 10,
+    "available": true
+  },
+  {
+    "id": "mu-north-atrium",
+    "name": "MU North Atrium tables",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": false,
+    "capacity": 8,
+    "available": true
+  },
+  {
+    "id": "mu-soft-seating",
+    "name": "MU Second-floor soft seating",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": false,
+    "capacity": 10,
+    "available": true
+  },
+  {
+    "id": "hayden-ll1-booth",
+    "name": "Hayden Library LL1 booths",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": true,
+    "capacity": 6,
+    "available": true
+  },
+  {
+    "id": "hayden-ll2-collab",
+    "name": "Hayden Library LL2 collaboration tables",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": false,
+    "capacity": 10,
+    "available": true
+  },
+  {
+    "id": "coor-atrium-benches",
+    "name": "Coor Hall Atrium benches",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": false,
+    "capacity": 8,
+    "available": true
+  },
+  {
+    "id": "tooker-innovation-hub",
+    "name": "Tooker House Innovation Hub lounge",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": false,
+    "capacity": 10,
+    "available": true
+  },
+  {
+    "id": "noble-reading-pods",
+    "name": "Noble Library reading room side pods",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": true,
+    "capacity": 6,
+    "available": true
+  },
+  {
+    "id": "palo-verde-market",
+    "name": "Palo Verde Market seating",
+    "zone": "Tempe",
+    "ada": true,
+    "sensoryFriendly": false,
+    "capacity": 6,
+    "available": true
+  }
+]

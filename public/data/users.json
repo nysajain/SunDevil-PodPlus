@@ -1,0 +1,417 @@
+[
+  {
+    "id": "u-001",
+    "name": "Alice Li",
+    "email": "ali@asu.edu",
+    "zone": "Tempe",
+    "interests": [
+      "anime",
+      "study sprint"
+    ],
+    "times": [
+      "Wed 12:30",
+      "Mon 14:00"
+    ],
+    "tags": [
+      "international"
+    ]
+  },
+  {
+    "id": "u-002",
+    "name": "Jordan Cruz",
+    "email": "jcruz@asu.edu",
+    "zone": "Tempe",
+    "interests": [
+      "soccer",
+      "hiking"
+    ],
+    "times": [
+      "Wed 12:30",
+      "Thu 17:00"
+    ],
+    "tags": [
+      "commuter"
+    ]
+  },
+  {
+    "id": "u-003",
+    "name": "Sam Patel",
+    "email": "spatel@asu.edu",
+    "zone": "Tempe",
+    "interests": [
+      "study sprint",
+      "coffee"
+    ],
+    "times": [
+      "Wed 12:30",
+      "Tue 11:30"
+    ],
+    "tags": [
+      "first_gen",
+      "language_ally"
+    ]
+  },
+  {
+    "id": "u-004",
+    "name": "Noor Khan",
+    "email": "nkhan@asu.edu",
+    "zone": "Tempe",
+    "interests": [
+      "coffee",
+      "board games"
+    ],
+    "times": [
+      "Wed 12:30",
+      "Fri 15:00"
+    ],
+    "tags": [
+      "sensory"
+    ]
+  },
+  {
+    "id": "u-005",
+    "name": "Lucas Smith",
+    "email": "lucas.smith@asu.edu",
+    "zone": "Tempe",
+    "interests": [
+      "basketball",
+      "coding"
+    ],
+    "times": [
+      "Wed 12:30",
+      "Tue 15:00"
+    ],
+    "tags": [
+      "mobility"
+    ]
+  },
+  {
+    "id": "u-006",
+    "name": "Emily Martinez",
+    "email": "emartinez@asu.edu",
+    "zone": "Tempe",
+    "interests": [
+      "music",
+      "volunteering"
+    ],
+    "times": [
+      "Wed 12:30",
+      "Mon 10:00"
+    ],
+    "tags": [
+      "commuter",
+      "first_gen"
+    ]
+  },
+  {
+    "id": "u-007",
+    "name": "Maya Johnson",
+    "email": "mjohnson@asu.edu",
+    "zone": "West",
+    "interests": [
+      "art",
+      "dancing"
+    ],
+    "times": [
+      "Tue 15:00",
+      "Mon 14:00"
+    ],
+    "tags": [
+      "language_ally"
+    ]
+  },
+  {
+    "id": "u-008",
+    "name": "David Kim",
+    "email": "dkim@asu.edu",
+    "zone": "West",
+    "interests": [
+      "gaming",
+      "hiking"
+    ],
+    "times": [
+      "Tue 15:00",
+      "Wed 16:00"
+    ],
+    "tags": [
+      "commuter",
+      "international"
+    ]
+  },
+  {
+    "id": "u-009",
+    "name": "Isabella Garcia",
+    "email": "igarcia@asu.edu",
+    "zone": "West",
+    "interests": [
+      "photography",
+      "reading"
+    ],
+    "times": [
+      "Tue 15:00",
+      "Sat 13:00"
+    ],
+    "tags": [
+      "sensory"
+    ]
+  },
+  {
+    "id": "u-010",
+    "name": "Mateo Hernandez",
+    "email": "mhernandez@asu.edu",
+    "zone": "West",
+    "interests": [
+      "soccer",
+      "volunteering"
+    ],
+    "times": [
+      "Tue 15:00",
+      "Fri 15:00"
+    ],
+    "tags": [
+      "commuter",
+      "first_gen"
+    ]
+  },
+  {
+    "id": "u-011",
+    "name": "Sophia Nguyen",
+    "email": "snguyen@asu.edu",
+    "zone": "West",
+    "interests": [
+      "study sprint",
+      "coffee"
+    ],
+    "times": [
+      "Tue 15:00",
+      "Wed 16:00"
+    ],
+    "tags": [
+      "mobility"
+    ]
+  },
+  {
+    "id": "u-012",
+    "name": "Liam Brown",
+    "email": "lbrown@asu.edu",
+    "zone": "West",
+    "interests": [
+      "music",
+      "art"
+    ],
+    "times": [
+      "Tue 15:00",
+      "Sun 10:00"
+    ],
+    "tags": [
+      "commuter"
+    ]
+  },
+  {
+    "id": "u-013",
+    "name": "Ethan Chen",
+    "email": "echen@asu.edu",
+    "zone": "Poly",
+    "interests": [
+      "coding",
+      "reading"
+    ],
+    "times": [
+      "Thu 17:00",
+      "Wed 12:30"
+    ],
+    "tags": [
+      "first_gen"
+    ]
+  },
+  {
+    "id": "u-014",
+    "name": "Hannah Davis",
+    "email": "hdavis@asu.edu",
+    "zone": "Poly",
+    "interests": [
+      "photography",
+      "coffee"
+    ],
+    "times": [
+      "Thu 17:00",
+      "Fri 15:00"
+    ],
+    "tags": [
+      "commuter"
+    ]
+  },
+  {
+    "id": "u-015",
+    "name": "Oscar Lopez",
+    "email": "olopez@asu.edu",
+    "zone": "Poly",
+    "interests": [
+      "anime",
+      "film club"
+    ],
+    "times": [
+      "Thu 17:00",
+      "Thu 13:00"
+    ],
+    "tags": [
+      "international"
+    ]
+  },
+  {
+    "id": "u-016",
+    "name": "Chloe Lee",
+    "email": "chloe.lee@asu.edu",
+    "zone": "Poly",
+    "interests": [
+      "art",
+      "reading"
+    ],
+    "times": [
+      "Thu 17:00",
+      "Wed 16:00"
+    ],
+    "tags": [
+      "language_ally"
+    ]
+  },
+  {
+    "id": "u-017",
+    "name": "Benjamin Thompson",
+    "email": "bthompson@asu.edu",
+    "zone": "Poly",
+    "interests": [
+      "hiking",
+      "board games"
+    ],
+    "times": [
+      "Thu 17:00",
+      "Sat 13:00"
+    ],
+    "tags": [
+      "sensory",
+      "mobility"
+    ]
+  },
+  {
+    "id": "u-018",
+    "name": "Olivia White",
+    "email": "owhite@asu.edu",
+    "zone": "Poly",
+    "interests": [
+      "soccer",
+      "volunteering"
+    ],
+    "times": [
+      "Thu 17:00",
+      "Sun 10:00"
+    ],
+    "tags": [
+      "commuter"
+    ]
+  },
+  {
+    "id": "u-019",
+    "name": "Aaliyah Walker",
+    "email": "awalker@asu.edu",
+    "zone": "DTPHX",
+    "interests": [
+      "dancing",
+      "music"
+    ],
+    "times": [
+      "Wed 16:00",
+      "Thu 13:00"
+    ],
+    "tags": [
+      "commuter"
+    ]
+  },
+  {
+    "id": "u-020",
+    "name": "Christopher Young",
+    "email": "cyoung@asu.edu",
+    "zone": "DTPHX",
+    "interests": [
+      "volunteering",
+      "coffee"
+    ],
+    "times": [
+      "Wed 16:00",
+      "Sun 10:00"
+    ],
+    "tags": [
+      "international"
+    ]
+  },
+  {
+    "id": "u-021",
+    "name": "Natalie Gonzalez",
+    "email": "ngonzalez@asu.edu",
+    "zone": "DTPHX",
+    "interests": [
+      "board games",
+      "film club"
+    ],
+    "times": [
+      "Wed 16:00",
+      "Sat 13:00"
+    ],
+    "tags": [
+      "sensory"
+    ]
+  },
+  {
+    "id": "u-022",
+    "name": "Alexander Green",
+    "email": "agreen@asu.edu",
+    "zone": "DTPHX",
+    "interests": [
+      "study sprint",
+      "coding"
+    ],
+    "times": [
+      "Wed 16:00",
+      "Thu 17:00"
+    ],
+    "tags": [
+      "first_gen",
+      "language_ally"
+    ]
+  },
+  {
+    "id": "u-023",
+    "name": "Grace Robinson",
+    "email": "grobinson@asu.edu",
+    "zone": "DTPHX",
+    "interests": [
+      "photography",
+      "hiking"
+    ],
+    "times": [
+      "Wed 16:00",
+      "Fri 15:00"
+    ],
+    "tags": [
+      "mobility"
+    ]
+  },
+  {
+    "id": "u-024",
+    "name": "Daniel Mitchell",
+    "email": "dmitchell@asu.edu",
+    "zone": "DTPHX",
+    "interests": [
+      "basketball",
+      "volunteering"
+    ],
+    "times": [
+      "Wed 16:00",
+      "Thu 17:00"
+    ],
+    "tags": [
+      "commuter",
+      "first_gen"
+    ]
+  }
+]
